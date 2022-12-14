@@ -1,5 +1,5 @@
 import React from "react";
-import SearchContact from "./contact/SearchContact";
+import SearchContact from "./contacts/SearchContact";
 import { PURPLE, BACKGROUND } from "../helpers/colors";
 
 const Navbar = () => {
